@@ -1,4 +1,12 @@
-## Hi there 👋
+# Basic-Info
+
+۞ **name:** South / Forrest 
+ 
+۞ **pronouns:** He / They 
+ 
+۞ **astro signs:** Cancer | July 20th 
+  
+۞ **age:** 19
 
 <!--
 **SouthKahoota/SouthKahoota** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
